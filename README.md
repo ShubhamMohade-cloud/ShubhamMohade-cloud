@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img align="center" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 <h1 align="center">Hi 👋, I'm Shubham Mohade</h1>
 <h3 align="center">A passionate AWS and DevOps Engineer from India</h3>
